@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "485999195652",
+    "firebase_url": "https://ielts-9c8f1.firebaseio.com",
+    "project_id": "ielts-9c8f1",
+    "storage_bucket": "ielts-9c8f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485999195652:android:f453afdeecd09255",
+        "android_client_info": {
+          "package_name": "com.example.lysanchen.ieltstest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485999195652-hoanjtn1kom4v1ndusj02dc87pf47eia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lysanchen.ieltstest",
+            "certificate_hash": "d4a8bb546e68a51d3c3b80eb13a99a56ff281370"
+          }
+        },
+        {
+          "client_id": "485999195652-g0g1ejsnu96klngbl24m0rad5g29ko11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALsLOYLBgyPN33uB__dYinshVfP64X8OA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485999195652-g0g1ejsnu96klngbl24m0rad5g29ko11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

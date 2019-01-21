@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.lysanchen.ieltstest.TestActivity">
+
+    <FrameLayout
+        android:id="@+id/frameQ"
+        android:layout_width="371dp"
+        android:layout_height="494dp"
+        tools:layout_editor_absoluteX="7dp"
+        tools:layout_editor_absoluteY="1dp">
+
+    </FrameLayout>
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="372dp"
+        android:layout_height="10dp"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="495dp"/>
+</android.support.constraint.ConstraintLayout>
